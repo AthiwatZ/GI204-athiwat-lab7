@@ -192,14 +192,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c93b0b3717f4834dbbd042080a7cf88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 0}
+  rb: {fileID: 249352223}
   enginePower: 1000
   liftBooster: 0.5
   dragDamp: 0.03
   angularDragDamp: 0.03
-  yawPower: 100
-  pitchPower: 100
-  rollPower: 100
+  yawPower: 50
+  pitchPower: 50
+  rollPower: 50
 --- !u!1 &604170349
 GameObject:
   m_ObjectHideFlags: 0
